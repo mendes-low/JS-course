@@ -67,6 +67,6 @@
 // console.log(language.split('a'));
 
 
-let string = '30 Days Of JavaScript'
-string = string.replace('JavaScript', 'Python')
-console.log(string);
+// let string = '30 Days Of JavaScript'
+// string = string.replace('JavaScript', 'Python')
+// console.log(string);
